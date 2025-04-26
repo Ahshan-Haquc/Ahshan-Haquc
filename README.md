@@ -1,4 +1,4 @@
-<h1></h1> Hello, I'm Ahshanul Haquc! </h1>
+<h1>Hello, I'm Ahshanul Haquc! </h1>
 🎓 I'm a Final Year Student from Grenn University of Bangladesh, passionate about building modern and user-friendly websites.
 
 <h3>Tech Stack:</h3>
@@ -18,7 +18,7 @@
 <h3>Current Focus:</h3>
 
 - Full-Stack Web Development
-- Building real-world projects
+- Searching for job opportunities
 - Learning and applying best practices
 
 <h3>Recent Projects :</h3>
