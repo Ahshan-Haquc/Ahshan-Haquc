@@ -1,4 +1,4 @@
-##👋 Hello, I'm Ahshanul Haquc! <br>
+<h1></h1> Hello, I'm Ahshanul Haquc! </h1>
 🎓 I'm a Final Year Student from Grenn University of Bangladesh, passionate about building modern and user-friendly websites.
 
 <h3>Tech Stack:</h3>
@@ -23,10 +23,10 @@
 
 <h3>Recent Projects :</h3>
 
-Green University StudentBridge — A service platform for university students
+Green University StudentBridge — A service platform for university students  <br>
 Portfolio - A personal portfolio static website
 
 <h3>Let's connect :</h3>
 
-LinkedIn : https://www.linkedin.com/in/ahshanul-haquc-82382a337/
+LinkedIn : https://www.linkedin.com/in/ahshanul-haquc-82382a337/  <br>
 Email: ahshanulhaqucgub@gmail.com
