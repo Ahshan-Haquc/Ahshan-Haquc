@@ -1,5 +1,5 @@
-<h1>Hello, I'm Ahshanul Haquc! </h1>
-🎓 I'm a Final Year Student from Grenn University of Bangladesh, passionate about building modern and user-friendly websites.
+<h1>Hello, I'm Ahshanul Haquc </h1>
+I'm a Final Year Student from Grenn University of Bangladesh, passionate about building modern and user-friendly websites.
 
 <h3>Tech Stack:</h3>
 
