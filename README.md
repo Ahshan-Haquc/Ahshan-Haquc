@@ -1,5 +1,5 @@
 <h1>Hello, I'm Ahshanul Haquc </h1>
-I'm a Final Year Student from Grenn University of Bangladesh, passionate about building modern and user-friendly websites.
+I'm Ahshanul Haquc, passionate about building modern and user-friendly websites.
 
 <h3>Tech Stack:</h3>
 
@@ -20,13 +20,12 @@ I'm a Final Year Student from Grenn University of Bangladesh, passionate about b
 <h3>Current Focus:</h3>
 
 - Full-Stack Web Development
-- Searching for job opportunities
 - Learning and applying best practices
 
 <h3>Recent Projects :</h3>
 
 Green University StudentBridge — A service platform for university students  <br>
-Portfolio - A personal portfolio static website
+ProFileGen - a complete CV or resume maker website with multiple attractive templates
 
 <h3>Let's connect :</h3>
 
