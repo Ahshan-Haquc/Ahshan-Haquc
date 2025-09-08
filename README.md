@@ -1,5 +1,7 @@
 <h1>Hello, I'm Ahshanul Haquc </h1>
-I'm Ahshanul Haquc, passionate about building modern and user-friendly websites.
+I'm passionate and self-taught web developer proficient in React.js, Node.js, Express.js and MongoDB.
+Hands-on experience through academic, personal and organizational projects.
+
 
 <h3>Tech Stack:</h3>
 
@@ -19,16 +21,17 @@ I'm Ahshanul Haquc, passionate about building modern and user-friendly websites.
 
 <h3>Current Focus:</h3>
 
-- Full-Stack Web Development
-- Learning and applying best practices
+- Full-Stack Web Development (MERN)
+- Learning Next.js and Redux
 
 <h3>Recent Projects :</h3>
 
-Green University StudentBridge — A service platform for university students  <br>
-ProFileGen - a complete CV or resume maker website with multiple attractive templates
+<b>ProFileGen</b> - Live link: https://profilegen-cv-maker-frontend.vercel.app/  <br>
+<b>1MinuteQuiz</b> - Live link: https://1-minute-quiz.vercel.app/login  <br>
+<b>Green University StudentBridge</b> — A service platform for university students  <br>
 
 <h3>Let's connect :</h3>
 
-LinkedIn : https://www.linkedin.com/in/ahshanul-haquc-82382a337/  <br>
 Email : ahshanulhaqucgub@gmail.com <br>
+LinkedIn : https://www.linkedin.com/in/ahshanul-haquc-82382a337/  <br>
 Portfolio : https://ahshan-haquc.github.io/MyPortfolio-Website/
