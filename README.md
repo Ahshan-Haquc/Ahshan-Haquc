@@ -28,7 +28,7 @@ Hands-on experience through academic, personal and organizational projects.
 
 <b>ProFileGen</b> - Live link: https://profilegen-cv-maker-frontend.vercel.app/  <br>
 <b>1MinuteQuiz</b> - Live link: https://1-minute-quiz.vercel.app/login  <br>
-<b>Green University StudentBridge</b> — A service platform for university students  <br>
+<b>Green University StudentBridge</b> — An utility service platform for our university students  <br>
 
 <h3>Let's connect :</h3>
 
