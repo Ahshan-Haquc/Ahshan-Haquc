@@ -21,8 +21,7 @@ Hands-on experience through academic, personal and organizational projects.
 
 <h3>Current Focus:</h3>
 
-- Full-Stack Web Development (MERN)
-- Learning Next.js and Redux
+- Learning TypeScript -> and up next Next.js -> Redux
 
 <h3>Recent Projects :</h3>
 
