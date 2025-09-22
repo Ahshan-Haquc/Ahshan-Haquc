@@ -25,6 +25,7 @@ Hands-on experience through academic, personal and organizational projects.
 
 <h3>Recent Projects :</h3>
 
+<b>DevZone Academy</b> - Live link: https://dev-zone-academy.vercel.app/  <br>
 <b>ProFileGen</b> - Live link: https://profilegen-cv-maker-frontend.vercel.app/  <br>
 <b>1MinuteQuiz</b> - Live link: https://1-minute-quiz.vercel.app/  <br>
 <b>Green University StudentBridge</b> — Live link: https://studentbridge-black.vercel.app/  <br>
