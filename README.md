@@ -17,6 +17,7 @@ I'm proficient in the following technologies and tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -50,11 +51,9 @@ I am currently strengthening my skills in:
 Here are a few projects that demonstrate my full-stack and frontend capabilities:
 
 ### **1. ProFileGen (CV/Resume Builder)**
-* **Description:** A professional platform that enables job candidates to instantly build and update attractive resumes and CVs using various modern templates.
 * **Live Link:** [https://profilegen-cv-maker-frontend.vercel.app/](https://profilegen-cv-maker-frontend.vercel.app/)
 
 ### **2. DevZone Academy (E-Learning Platform)**
-* **Description:** A comprehensive web academy demonstrating secure authentication, dynamic routing, and database integration for course management.
 * **Live Link:** [https://dev-zone-academy.vercel.app/](https://dev-zone-academy.vercel.app/)
 
 ### **3. 1MinuteQuiz**
@@ -77,7 +76,6 @@ I'm open to discussing new projects, collaborations, or job opportunities. Feel 
 | **LinkedIn** | <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/" target="_blank">linkedin.com/in/ahshanul-haquc</a> |
 | **Portfolio** | <a href="https://ahshan-haquc.github.io/MyPortfolio-Website/" target="_blank">My Personal Website</a> |
 
----
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Ahshan-Haquc&style=flat-square&color=blueviolet" alt="" />
 </div>
