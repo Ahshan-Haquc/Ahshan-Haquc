@@ -1,39 +1,85 @@
-<h1>Hello, I'm Ahshanul Haquc </h1>
-I'm passionate and self-taught web developer proficient in React.js, Node.js, Express.js and MongoDB.
-Hands-on experience through academic, personal and organizational projects.
+<div align="center">
+  <img src="https://media.giphy.com/media/zhvxfvL81H2iE4pD3P/giphy.gif" width="60"/>
+  <h1>Hello, I'm Ahshanul Haquc </h1>
+</div>
 
+---
 
-<h3>Tech Stack:</h3>
+## About Me
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+I'm a passionate and **self-taught web developer** specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on building robust full-stack applications and creating seamless, modern user experiences.
+
+With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects. I'm dedicated to continuous learning and translating complex requirements into elegant, efficient code.
+
+---
+
+## Tech Stack & Proficiencies
+
+I'm proficient in the following technologies and tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h3>Current Focus:</h3>
+---
 
-- Learning Next.js -> and up next -> Redux
+## Current Focus & Learning Path
 
-<h3>Recent Projects :</h3>
+I am currently strengthening my skills in:
 
-<b>DevZone Academy</b> - Live link: https://dev-zone-academy.vercel.app/  <br>
-<b>ProFileGen</b> - Live link: https://profilegen-cv-maker-frontend.vercel.app/  <br>
-<b>1MinuteQuiz</b> - Live link: https://1-minute-quiz.vercel.app/  <br>
-<b>Green University StudentBridge</b> — Live link: https://studentbridge-black.vercel.app/  <br>
-<b>Air Ambulance</b> — Live link: https://www.airambulancethai.com/  <br>
+* **Next.js:** Mastering server-side rendering, routing, and advanced Next.js patterns.
+* **Up Next:** Diving deep into state management with **Redux Toolkit**.
 
-<h3>Let's connect :</h3>
+---
 
-Email : ahshanulhaqucgub@gmail.com <br>
-LinkedIn : https://www.linkedin.com/in/ahshanul-haquc-82382a337/  <br>
-Portfolio : https://ahshan-haquc.github.io/MyPortfolio-Website/
+## Recent Projects
+
+Here are a few projects that demonstrate my full-stack and frontend capabilities:
+
+### **1. ProFileGen (CV/Resume Builder)**
+* **Description:** A professional platform that enables job candidates to instantly build and update attractive resumes and CVs using various modern templates.
+* **Live Link:** [https://profilegen-cv-maker-frontend.vercel.app/](https://profilegen-cv-maker-frontend.vercel.app/)
+
+### **2. DevZone Academy (E-Learning Platform)**
+* **Description:** A comprehensive web academy demonstrating secure authentication, dynamic routing, and database integration for course management.
+* **Live Link:** [https://dev-zone-academy.vercel.app/](https://dev-zone-academy.vercel.app/)
+
+### **3. 1MinuteQuiz**
+* **Live Link:** [https://1-minute-quiz.vercel.app/](https://1-minute-quiz.vercel.app/)
+
+### **4. Green University StudentBridge**
+* **Live Link:** [https://studentbridge-black.vercel.app/](https://studentbridge-black.vercel.app/)
+
+### **5. Air Ambulance**
+* **Live Link:** [https://www.airambulancethai.com/](https://www.airambulancethai.com/)
+
+---
+
+## Let's Connect
+
+I'm open to discussing new projects, collaborations, or job opportunities. Feel free to reach out!
+
+| Platform | Details |
+| :--- | :--- |
+| **Email** | <a href="mailto:ahshanulhaqucgub@gmail.com" target="_blank">ahshanulhaqucgub@gmail.com</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/" target="_blank">linkedin.com/in/ahshanul-haquc</a> |
+| **Portfolio** | <a href="https://ahshan-haquc.github.io/MyPortfolio-Website/" target="_blank">My Personal Website</a> |
+
+---
