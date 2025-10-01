@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zhvxfvL81H2iE4pD3P/giphy.gif" width="60"/>
   <h1>Hello, I'm Ahshanul Haquc </h1>
 </div>
 
 
 ## About Me
 
-I'm a passionate and **self-taught web developer** specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on building robust full-stack applications and creating seamless, modern user experiences.
-
-With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects. I'm dedicated to continuous learning and translating complex requirements into elegant, efficient code.
-
+I'm a passionate and **self-taught web developer** specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on building robust full-stack applications and creating seamless, modern user experiences. With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects.
 
 ## Tech Stack & Proficiencies
 
@@ -42,8 +38,8 @@ I'm proficient in the following technologies and tools:
 
 I am currently strengthening my skills in:
 
-* **Next.js:** Mastering server-side rendering, routing, and advanced Next.js patterns.
-* **Up Next:** Diving deep into state management with **Redux Toolkit**.
+* **Next.js:**
+* **Up Next:** **Redux Toolkit**.
 
 
 ## Recent Projects
