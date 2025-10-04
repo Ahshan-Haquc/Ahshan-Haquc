@@ -64,7 +64,7 @@ Here are a few projects that demonstrate my full-stack and frontend capabilities
 ### **5. Air Ambulance**
 * **Live Link:** [https://www.airambulancethai.com/](https://www.airambulancethai.com/)
 
-### **5. Telefect IT Ltd**
+### **6. Telefect IT Ltd**
 * **Live Link:** [https://telefect.com/](https://telefect.com/)
 
 
