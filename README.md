@@ -40,9 +40,7 @@ I'm proficient in the following technologies and tools:
 ## Current Focus & Learning Path
 
 I am currently strengthening my skills in:
-
-* **Next.js:**
-* **Up Next:** **Redux Toolkit**.
+**Redux Toolkit**
 
 
 ## Recent Projects
