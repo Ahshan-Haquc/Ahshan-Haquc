@@ -74,9 +74,6 @@ I'm open to discussing new projects, collaborations, or job opportunities. Feel 
 | :--- | :--- |
 | **Email** | <a href="mailto:ahshanulhaqucgub@gmail.com" target="_blank">ahshanulhaqucgub@gmail.com</a> |
 | **LinkedIn** | <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/" target="_blank">https://www.linkedin.com/in/ahshanul-haquc-82382a337/</a> |
-| **Portfolio** | <a href="https://ahshan-haquc.github.io/MyPortfolio-Website/" target="_blank">https://ahshan-haquc.github.io/MyPortfolio-Website/</a> |
+| **Portfolio** | <a href="https://ahshanul-haquc.vercel.app/" target="_blank">https://ahshanul-haquc.vercel.app/</a> |
 | **CV** | <a href="https://drive.google.com/drive/u/0/folders/1tjNcAEBNHe7yJ1foBdMzxKurRnR7sUmd" target="_blank">https://drive.google.com/drive/u/0/folders/1tjNcAEBNHe7yJ1foBdMzxKurRnR7sUmd</a> 
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ahshan-Haquc&style=flat-square&color=blueviolet" alt="" />
-</div>
