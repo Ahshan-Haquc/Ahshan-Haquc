@@ -40,7 +40,7 @@ I'm proficient in the following technologies and tools:
 ## Current Focus & Learning Path
 
 I am currently strengthening my skills in:
-**Redux Toolkit**
+**Nest.js** for backend and then **AWS** for better deployement
 
 
 ## Recent Projects
