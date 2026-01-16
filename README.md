@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on building robust full-stack applications and creating seamless, modern user experiences. With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects.
+I'm a passionate full-stack web developer specializing in Next.js, React.js, Node.js, Express.js, MongoDB. I thrive on building robust full-stack applications and creating seamless, modern user experiences. With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects.
 
 ## Tech Stack & Proficiencies
 
