@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate full-stack web developer specializing in Next.js, React.js, Node.js, Express.js, MongoDB. I thrive on building robust full-stack applications and creating seamless, modern user experiences. With solid expertise across the stack, I have practical experience from a variety of academic, personal, and organizational projects.
+This is Ahshanul Haquc. I'm a Full Stack Developer specialized in React.js, Next.js, Node.js, Express.js, MongoDB, MySQL and a Competitive Programmer. I actively participate in programming contests on Codeforces since December 2025 and also solve previous contest problem sets. I'm currently working as a Jr. Frontend Developer at Softvence IT Ltd, and I have Internship and Industrial Training experience from my university. I have completed my BSc in CSE from Green University of Bangladesh (GUB) in 2025.
 
 ## Tech Stack & Proficiencies
 
