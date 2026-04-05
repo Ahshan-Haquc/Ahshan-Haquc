@@ -39,6 +39,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahshan-Haquc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ahshan-Haquc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahshan-Haquc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Ahshan-Haquc&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## Competitive Programming
 
@@ -46,7 +57,7 @@
   <img src="https://img.shields.io/badge/Codeforces-902%20Rating-blue?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-success?style=for-the-badge" />
 </p>
-<br/><br/>
+&nbsp;&nbsp;
 <p align="center">
   <a href="https://codeforces.com/profile/AhshanHaquc">
     <img src="https://img.shields.io/badge/View%20Profile-Codeforces-FF4500?style=for-the-badge&logo=codeforces" />
@@ -59,10 +70,10 @@
 <p align="center">
   <a href="https://profilegen-cv-maker-frontend.vercel.app/">
     <img src="https://img.shields.io/badge/ProFileGen-CV%20Builder-blue?style=for-the-badge" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://dev-zone-academy.vercel.app/">
     <img src="https://img.shields.io/badge/DevZone-Academy-green?style=for-the-badge" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://1-minute-quiz.vercel.app/">
     <img src="https://img.shields.io/badge/1MinuteQuiz-Game-orange?style=for-the-badge" />
   </a>
@@ -71,10 +82,10 @@
 <p align="center">
   <a href="https://studentbridge-black.vercel.app/">
     <img src="https://img.shields.io/badge/StudentBridge-Platform-purple?style=for-the-badge" />
-  </a>
+  </a>>&nbsp;&nbsp;
   <a href="https://www.airambulancethai.com/">
     <img src="https://img.shields.io/badge/Air%20Ambulance-Live-red?style=for-the-badge" />
-  </a>
+  </a>>&nbsp;&nbsp;
   <a href="https://telefect.com/">
     <img src="https://img.shields.io/badge/Telefect-Corporate-black?style=for-the-badge" />
   </a>
@@ -85,7 +96,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-Nest.js-black?style=for-the-badge&logo=nestjs" />
-  <br/><br/>
+  >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next-AWS-orange?style=for-the-badge&logo=amazonaws" />
 </p>
 
@@ -93,8 +104,8 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dean’s%20Award-2025-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VC’s%20Award-2024-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dean’s%20Award-2025-success?style=for-the-badge" />>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VC’s%20Award-2024-blue?style=for-the-badge" />>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Early%20Promotion-Performance-important?style=for-the-badge" />
 </p>
 
@@ -104,13 +115,13 @@
 <p align="center">
   <a href="mailto:ahshanulhaqucgub@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  </a>>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  </a>>&nbsp;&nbsp;
   <a href="https://ahshanul-haquc.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
+  </a>>&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1RA68UnQS0QLKaDHLrSBcR60IuvqPEaZi/view">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge" />
   </a>
