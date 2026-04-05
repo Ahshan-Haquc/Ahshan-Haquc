@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -16,7 +15,6 @@
 - Competitive Programmer on Codeforces (100+ problems solved)  
 - Passionate about clean code, performance, and problem-solving  
 
----
 
 ## Tech Stack
 
@@ -26,37 +24,37 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
----
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahshan-Haquc&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahshan-Haquc&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahshan-Haquc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahshan-Haquc&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ahshan-Haquc&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahshan-Haquc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🧠 Competitive Programming
+
+## Competitive Programming
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codeforces-902%20Rating-blue?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-success?style=for-the-badge" />
 </p>
-
+<br/><br/>
 <p align="center">
   <a href="https://codeforces.com/profile/AhshanHaquc">
     <img src="https://img.shields.io/badge/View%20Profile-Codeforces-FF4500?style=for-the-badge&logo=codeforces" />
   </a>
 </p>
 
----
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://profilegen-cv-maker-frontend.vercel.app/">
@@ -82,18 +80,17 @@
   </a>
 </p>
 
----
 
-## 🎯 Current Focus
+## Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-Nest.js-black?style=for-the-badge&logo=nestjs" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Next-AWS-orange?style=for-the-badge&logo=amazonaws" />
 </p>
 
----
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dean’s%20Award-2025-success?style=for-the-badge" />
@@ -101,9 +98,8 @@
   <img src="https://img.shields.io/badge/Early%20Promotion-Performance-important?style=for-the-badge" />
 </p>
 
----
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:ahshanulhaqucgub@gmail.com">
