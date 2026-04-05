@@ -1,81 +1,127 @@
 <div align="center">
-  <h1>Hello, I'm Ahshanul Haquc </h1>
+
+# 👋 Hello, I'm Ahshanul Haquc  
+### 🚀 Full Stack Developer | Competitive Programmer
+
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;AI+SaaS+Enthusiast;Competitive+Programmer" />
+
 </div>
 
+---
 
-## About Me
+## 🧠 About Me
 
-This is Ahshanul Haquc. I'm a Full Stack Developer specialized in React.js, Next.js, Node.js, Express.js, MongoDB, MySQL and a Competitive Programmer. I actively participate in programming contests on Codeforces since December 2025 and also solve previous contest problem sets. I'm currently working as a Jr. Frontend Developer at Softvence IT Ltd, and I have Internship and Industrial Training experience from my university. I have completed my BSc in CSE from Green University of Bangladesh (GUB) in 2025.
+💻 Full Stack Developer with real-world experience building scalable and production-ready applications  
+🚀 Currently working as a Frontend Developer at **Softvence IT Ltd**  
+🧩 Competitive Programmer on Codeforces (100+ problems solved)  
+🎯 Passionate about clean code, performance, and problem-solving  
 
-## Tech Stack & Proficiencies
+---
 
-I'm proficient in the following technologies and tools:
+## ⚡ Tech Stack
 
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-   <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-   <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Hostinger-009DFF?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,git,github,figma" />
 </p>
 
+---
 
-## Current Focus & Learning Path
+## 📊 GitHub Analytics
 
-I am currently strengthening my skills in:
-**Nest.js** for backend and then **AWS** for better deployement
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahshan-Haquc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahshan-Haquc&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahshan-Haquc&layout=compact&theme=tokyonight" />
+</p>
 
-## Recent Projects
+---
 
-Here are a few projects that demonstrate my full-stack and frontend capabilities:
+## 🧠 Competitive Programming
 
-### **1. ProFileGen (CV/Resume Builder)**
-* **Live Link:** [https://profilegen-cv-maker-frontend.vercel.app/](https://profilegen-cv-maker-frontend.vercel.app/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-902%20Rating-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-success?style=for-the-badge" />
+</p>
 
-### **2. DevZone Academy (E-Learning Platform)**
-* **Live Link:** [https://dev-zone-academy.vercel.app/](https://dev-zone-academy.vercel.app/)
+<p align="center">
+  <a href="https://codeforces.com/profile/AhshanHaquc">
+    <img src="https://img.shields.io/badge/View%20Profile-Codeforces-FF4500?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
 
-### **3. 1MinuteQuiz**
-* **Live Link:** [https://1-minute-quiz.vercel.app/](https://1-minute-quiz.vercel.app/)
+---
 
-### **4. Green University StudentBridge**
-* **Live Link:** [https://studentbridge-black.vercel.app/](https://studentbridge-black.vercel.app/)
+## 🚀 Featured Projects
 
-### **5. Air Ambulance**
-* **Live Link:** [https://www.airambulancethai.com/](https://www.airambulancethai.com/)
+<p align="center">
+  <a href="https://profilegen-cv-maker-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/ProFileGen-CV%20Builder-blue?style=for-the-badge" />
+  </a>
+  <a href="https://dev-zone-academy.vercel.app/">
+    <img src="https://img.shields.io/badge/DevZone-Academy-green?style=for-the-badge" />
+  </a>
+  <a href="https://1-minute-quiz.vercel.app/">
+    <img src="https://img.shields.io/badge/1MinuteQuiz-Game-orange?style=for-the-badge" />
+  </a>
+</p>
 
-### **6. Telefect IT Ltd**
-* **Live Link:** [https://telefect.com/](https://telefect.com/)
+<p align="center">
+  <a href="https://studentbridge-black.vercel.app/">
+    <img src="https://img.shields.io/badge/StudentBridge-Platform-purple?style=for-the-badge" />
+  </a>
+  <a href="https://www.airambulancethai.com/">
+    <img src="https://img.shields.io/badge/Air%20Ambulance-Live-red?style=for-the-badge" />
+  </a>
+  <a href="https://telefect.com/">
+    <img src="https://img.shields.io/badge/Telefect-Corporate-black?style=for-the-badge" />
+  </a>
+</p>
 
+---
 
-## Let's Connect
+## 🎯 Current Focus
 
-I'm open to discussing new projects, collaborations, or job opportunities. Feel free to reach out!
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Nest.js-black?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Next-AWS-orange?style=for-the-badge&logo=amazonaws" />
+</p>
 
-| Platform | Details |
-| :--- | :--- |
-| **Email** | <a href="mailto:ahshanulhaqucgub@gmail.com" target="_blank">ahshanulhaqucgub@gmail.com</a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/" target="_blank">https://www.linkedin.com/in/ahshanul-haquc-82382a337/</a> |
-| **Portfolio** | <a href="https://ahshanul-haquc.vercel.app/" target="_blank">https://ahshanul-haquc.vercel.app/</a> |
-| **CV** | <a href="https://drive.google.com/file/d/1RA68UnQS0QLKaDHLrSBcR60IuvqPEaZi/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1RA68UnQS0QLKaDHLrSBcR60IuvqPEaZi/view?usp=sharing</a> 
+---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dean’s%20Award-2025-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VC’s%20Award-2024-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Early%20Promotion-Performance-important?style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:ahshanulhaqucgub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://ahshanul-haquc.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://drive.google.com/file/d/1RA68UnQS0QLKaDHLrSBcR60IuvqPEaZi/view">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ *"Building scalable systems. Solving complex problems. Writing clean code."*
+
+</div>
