@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hello, I'm Ahshanul Haquc  
-### 🚀 Full Stack Developer | Competitive Programmer
+# Hello, I'm Ahshanul Haquc  
+### Full Stack Developer | Competitive Programmer
 
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;AI+SaaS+Enthusiast;Competitive+Programmer" />
 
@@ -9,19 +9,21 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-💻 Full Stack Developer with real-world experience building scalable and production-ready applications  
-🚀 Currently working as a Frontend Developer at **Softvence IT Ltd**  
-🧩 Competitive Programmer on Codeforces (100+ problems solved)  
-🎯 Passionate about clean code, performance, and problem-solving  
+- Full Stack Developer with real-world experience building scalable and production-ready applications  
+- Currently working as a Frontend Developer at **Softvence IT Ltd**  
+- Competitive Programmer on Codeforces (100+ problems solved)  
+- Passionate about clean code, performance, and problem-solving  
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
@@ -118,10 +120,3 @@
   </a>
 </p>
 
----
-
-<div align="center">
-
-⭐ *"Building scalable systems. Solving complex problems. Writing clean code."*
-
-</div>
