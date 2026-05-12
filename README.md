@@ -160,15 +160,9 @@
 ```ts
 const ahshanul = {
   role: "Software Engineer & Full Stack Developer",
-  company: "Softvence IT Ltd",
-  specialization: [
-    "Scalable Web Applications",
-    "Frontend Architecture",
-    "REST API Integration",
-    "Performance Optimization"
-  ],
+  currentWorkplace: "Softvence IT Ltd",
   competitiveProgramming: true,
-  currentFocus: ["Nest.js", "AWS", "System Design"],
+  currentFocus: ["Docker", "AWS", "System Design"],
   mindset: "Clean Code • Problem Solving • Continuous Learning"
 };
 ```
@@ -177,24 +171,33 @@ const ahshanul = {
 - Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with strong analytical and problem-solving skills  
 - Experienced in real-world client communication, scalable architecture, and modern frontend systems  
-- Passionate about writing maintainable code and building user-focused applications  
 
 ---
 
 # Tech Stack
 
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-### Frontend
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,python" />
 </p>
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,ts,react,nextjs,redux" />
+</p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Backend & Database
 <p>
@@ -203,11 +206,11 @@ const ahshanul = {
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode,vercel" />
 </p>
 
 </td>
@@ -233,40 +236,13 @@ const ahshanul = {
 # Professional Experience
 
 ## Junior Frontend Developer — Softvence IT Ltd
-📍 Nov 2025 - Present
+Nov 2025 - Present
 
 - Worked on **10+ production-level projects** including SaaS, healthcare, AI, e-commerce, and multi-tenant systems  
 - Built scalable frontend architectures using **React.js, Next.js, TypeScript, and Redux Toolkit**  
 - Solved complex state management and performance bottleneck issues  
 - Participated in international client meetings and translated business requirements into technical solutions  
 - Promoted to permanent employee within **1.5 months** based on performance  
-
----
-
-# Featured Projects
-
-## CHYR — AI Receptionist Platform (SaaS)
-🔗 https://ahmed-chyr-frontend.vercel.app/CHYR
-
-- Developed scalable dashboard systems and role-based features  
-- Solved dynamic rendering and reusable component architecture challenges  
-- Optimized API handling and frontend performance for better scalability  
-
----
-
-## ProFileGen — Resume Builder Platform
-🔗 https://profilegen-frontend.vercel.app/
-
-- Full-stack MERN application with authentication and subscription system  
-- Implemented JWT auth, protected routes, Stripe integration, and dynamic templates  
-- Focused on maintainable architecture and responsive user experience  
-
----
-
-## Theta Analyzer — Multi-Tenant SaaS
-- Developed tenant-based dashboards and API-driven data visualization  
-- Built reusable frontend systems using Redux Toolkit and scalable architecture  
-- Optimized rendering performance and state handling  
 
 ---
 
@@ -281,17 +257,6 @@ const ahshanul = {
 <img src="https://img.shields.io/badge/Focus-DSA_&_Algorithms-important?style=for-the-badge" />
 
 </div>
-
-<br/>
-
-```cpp
-while(problem_not_solved){
-    think();
-    optimize();
-    solve();
-    learn();
-}
-```
 
 ---
 
@@ -329,7 +294,7 @@ while(problem_not_solved){
 
 ```yaml
 learning:
-  - Nest.js
+  - Docker
   - AWS
   - System Design
   - Deployment & VPS Management
@@ -366,10 +331,5 @@ improving:
 
 </div>
 
----
-
-<div align="center">
-
-### "Turning complex problems into simple, scalable solutions."
 
 </div>
