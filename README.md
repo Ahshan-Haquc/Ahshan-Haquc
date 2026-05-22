@@ -131,7 +131,7 @@
 # Ahshanul Haquc
 ### Software Engineer • Full Stack Developer • Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Frontend+Engineer+with+Real+World+Experience;React+%7C+Next.js+%7C+Node.js+Developer;Competitive+Programmer+%7C+Problem+Solver;Passionate+About+Clean+Architecture+and+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+with+Real+World+Experience;Competitive+Programmer" />
 
 <br/>
 
