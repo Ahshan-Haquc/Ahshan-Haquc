@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://leetcode.com/u/qfMCICMjGp/"> 
-  <img src="https://shields.io" /> 
+  <img src="https://img.shields.io/badge/LeetCode-Profile-green?style=flat-square&logo=linkedin" />
 </a>
 
 </div>
