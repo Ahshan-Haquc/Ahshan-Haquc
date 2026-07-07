@@ -10,19 +10,19 @@
 <a href="mailto:ahshanulhaqucgub@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://ahshanul-haquc.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/AhshanHaquc">
   <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square&logo=codeforces" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/qfMCICMjGp/"> 
   <img src="https://img.shields.io/badge/LeetCode-Profile-green?style=flat-square&logo=linkedin" />
 </a>
@@ -177,16 +177,18 @@ improving:
   <img src="https://img.shields.io/badge/Gmail-ahshanulhaqucgub%40gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<br/><br/>
+<br/>
+<img src="https://img.shields.io/badge/Phone-01568222565-blue?style=for-the-badge&logo=phone" />
+<br/>
 
 <a href="https://ahshanul-haquc.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge&logo=vercel" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ahshan-Haquc">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
