@@ -94,7 +94,7 @@ const ahshanul = {
 
 ---
 
-# Professional Experience
+# Current Workplace
 
 ## Junior Frontend Developer — Softvence IT Ltd
 Nov 2025 - Present
