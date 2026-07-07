@@ -85,7 +85,7 @@ const ahshanul = {
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode,vps" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
 </p>
 
 </td>
@@ -118,7 +118,7 @@ environments.
 &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Problems_Solved-150+-success?style=for-the-badge" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Rank-Pupil?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rank-Pupil-important?style=for-the-badge" />
 
 </div>
 
