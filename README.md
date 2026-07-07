@@ -43,7 +43,7 @@ const ahshanul = {
 };
 ```
 
-- Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based VPS using Docker & CI/CD.
+- Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based **VPS using Docker & CI/CD**.
 - Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
