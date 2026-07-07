@@ -35,18 +35,17 @@
 
 ```ts
 const ahshanul = {
-  role: "Software Engineer & Full Stack Developer",
+  role: "Full Stack Developer",
   currentWorkplace: "Softvence IT Ltd",
   competitiveProgramming: true,
-  currentFocus: ["Docker", "AWS", "System Design"],
-  mindset: "Clean Code • Problem Solving • Continuous Learning"
+  currentFocus: ["AWS", "System Design"],
+  mindset: "Problem Solving • Continuous Learning"
 };
 ```
 
-- Full Stack Developer with hands-on experience building production-level SaaS and multi-tenant applications  
+- Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based VPS using Docker & CI/CD.
 - Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
-- Active Competitive Programmer on **Codeforces** with strong analytical and problem-solving skills  
-- Experienced in real-world client communication, scalable architecture, and modern frontend systems  
+- Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
 ---
 
@@ -86,7 +85,7 @@ const ahshanul = {
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode,vps" />
 </p>
 
 </td>
@@ -95,28 +94,17 @@ const ahshanul = {
 
 ---
 
-# Software Engineering Skills
-
-<div align="center">
-
-| Problem Solving | Software Engineering | Collaboration |
-|---|---|---|
-| Data Structures & Algorithms | Object-Oriented Programming | Team Collaboration |
-| Competitive Programming | REST API Integration | Client Communication |
-| Debugging & Optimization | Scalable Architecture | Agile Workflow |
-
-</div>
-
----
-
 # Professional Experience
 
 ## Junior Frontend Developer — Softvence IT Ltd
 Nov 2025 - Present
 
-- Worked on **10+ production-level projects** including SaaS, healthcare, AI, e-commerce, and multi-tenant systems  
-- Built scalable frontend architectures using **React.js, Next.js, TypeScript, and Redux Toolkit**  
-- Solved complex state management and performance bottleneck issues  
+- Developed and maintained scalable **SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant** applications using
+React.js, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS.
+- Dockerized websites using **Docker** and deployed in **Linux based VPS**. Used **CI/CD** for automatic deployement.
+- Maked **2x or more then 3x revenue** in each month according to my salary.
+- Successfully completed **10+ real-world projects** while collaborating with cross-functional teams in agile development
+environments.  
 - Participated in international client meetings and translated business requirements into technical solutions  
 - Promoted to permanent employee within **1.5 months** based on performance  
 
@@ -126,11 +114,11 @@ Nov 2025 - Present
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Codeforces-938_Rating-blue?style=for-the-badge&logo=codeforces" />
+<img src="https://img.shields.io/badge/Codeforces-1212_Rating-blue?style=for-the-badge&logo=codeforces" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Problems_Solved-130+-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problems_Solved-150+-success?style=for-the-badge" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Focus-DSA_&_Algorithms-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rank-Pupil?style=for-the-badge" />
 
 </div>
 
@@ -161,8 +149,8 @@ Nov 2025 - Present
 - Dean’s Certificate for Excellent Academic Performance — 2025  
 - VC’s Certificate for Outstanding Academic Performance — 2024  
 - Permanent Employee confirmation within 1.5 months at Softvence IT Ltd  
-- Solved 130+ algorithmic problems on Codeforces  
-- Built multiple real-world SaaS and scalable web applications  
+- Solved 150+ algorithmic problems on Codeforces  
+- Pupil in Codeforces 
 
 ---
 
@@ -170,10 +158,8 @@ Nov 2025 - Present
 
 ```yaml
 learning:
-  - Docker
   - AWS
   - System Design
-  - Deployment & VPS Management
 
 improving:
   - Problem Solving
