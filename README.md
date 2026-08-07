@@ -44,7 +44,7 @@ const ahshanul = {
 ```
 
 - Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based **VPS using Docker & CI/CD**.
-- Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
+- Currently working as a **Junior Full Stack Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
 ---
@@ -96,17 +96,17 @@ const ahshanul = {
 
 # Current Workplace
 
-## Junior Frontend Developer — Softvence IT Ltd
+## Jr. Full Stack Developer — Softvence IT Ltd
 Nov 2025 - Present
 
-- Developed and maintained scalable **SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant** applications using
-React.js, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS.
-- Dockerized websites using **Docker** and deployed in **Linux based VPS**. Used **CI/CD** for automatic deployement.
-- Maked **2x or more then 3x revenue** in each month according to my salary.
-- Successfully completed **10+ real-world projects** while collaborating with cross-functional teams in agile development
-environments.  
-- Participated in international client meetings and translated business requirements into technical solutions  
-- Promoted to permanent employee within **1.5 months** based on performance  
+- Developed and maintained scalable SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant applications using
+React.js, Next.js, TypeScript, Redux, Node.js, Express.js and MongoDB
+- Dockerized websites using Docker and deployed in Linux based VPS. Used CI/CD for automatic deployement.
+- Maked 2x or more then 3x revenue in each month according to my salary.
+- Successfully completed 10+ real-world projects while collaborating with cross-functional teams in agile development
+environments.
+- Solved frontend and backend performance and state management challenges by optimizing reusable component
+architecture and API handling, improving maintainability and user experience
 
 ---
 
