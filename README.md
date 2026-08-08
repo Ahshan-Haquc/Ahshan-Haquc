@@ -44,7 +44,7 @@ const ahshanul = {
 ```
 
 - Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based **VPS using Docker & CI/CD**.
-- Currently working as a **Junior Full Stack Developer at Softvence IT Ltd**  
+- Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
 ---
@@ -96,7 +96,7 @@ const ahshanul = {
 
 # Current Workplace
 
-## Jr. Full Stack Developer — Softvence IT Ltd
+## Jr. Frontend Developer — Softvence IT Ltd
 Nov 2025 - Present
 
 - Developed and maintained scalable SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant applications using
