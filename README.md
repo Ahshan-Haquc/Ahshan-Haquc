@@ -100,7 +100,7 @@ const ahshanul = {
 Nov 2025 - Present
 
 - Developed and maintained scalable SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant applications using
-React.js, Next.js, TypeScript, Redux, Node.js, Express.js and MongoDB
+React.js, Next.js, TypeScript, Redux and others.
 - Dockerized websites using Docker and deployed in Linux based VPS. Used CI/CD for automatic deployement.
 - Maked 2x or more then 3x revenue in each month according to my salary.
 - Successfully completed 10+ real-world projects while collaborating with cross-functional teams in agile development
