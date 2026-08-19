@@ -12,7 +12,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=flat-square&logo=linkedin" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://ahshanul-haquc.vercel.app/">
@@ -20,11 +20,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/AhshanHaquc">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-Visit-orange?style=flat-square&logo=codeforces" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/qfMCICMjGp/"> 
-  <img src="https://img.shields.io/badge/LeetCode-Profile-green?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LeetCode-Visit-green?style=flat-square&logo=linkedin" />
 </a>
 
 </div>
