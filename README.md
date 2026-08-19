@@ -8,7 +8,7 @@
 <br/>
 
 <a href="mailto:ahshanulhaqucgub@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahshanul-haquc-82382a337/">
@@ -16,15 +16,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://ahshanul-haquc.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/AhshanHaquc">
-  <img src="https://img.shields.io/badge/Codeforces-Visit-orange?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-Visit-blue?style=flat-square&logo=codeforces" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/qfMCICMjGp/"> 
-  <img src="https://img.shields.io/badge/LeetCode-Visit-green?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LeetCode-Visit-blue?style=flat-square&logo=linkedin" />
 </a>
 
 </div>
