@@ -44,7 +44,7 @@ const ahshanul = {
 ```
 
 - Full Stack Developer with hands-on experience building production-level SaaS & multi-tenant applications and deployed in Linux based **VPS using Docker & CI/CD**.
-- Currently working as a **Junior Frontend Developer at Softvence IT Ltd**  
+- Currently working as a **Junior Full Stack Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
 ---
@@ -96,11 +96,11 @@ const ahshanul = {
 
 # Current Workplace
 
-## Jr. Frontend Developer — Softvence IT Ltd
+## Jr. Full Stack Developer — Softvence IT Ltd
 Nov 2025 - Present
 
 - Developed and maintained scalable SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant applications using
-React.js, Next.js, TypeScript, Redux and others.
+React.js, Next.js, TypeScript, Redux, Node.js, Express.js and MongoDB.
 - Dockerized websites using Docker and deployed in Linux based VPS. Used CI/CD for automatic deployement.
 - Maked 2x or more then 3x revenue in each month according to my salary.
 - Successfully completed 10+ real-world projects while collaborating with cross-functional teams in agile development
@@ -116,9 +116,11 @@ architecture and API handling, improving maintainability and user experience
 
 <img src="https://img.shields.io/badge/Codeforces-1212_Rating-blue?style=for-the-badge&logo=codeforces" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Problems_Solved-150+-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problems_Solved-160+-success?style=for-the-badge" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Rank-Pupil-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Leetcode_Problems_Solved-8+-success?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -149,7 +151,7 @@ architecture and API handling, improving maintainability and user experience
 - Dean’s Certificate for Excellent Academic Performance — 2025  
 - VC’s Certificate for Outstanding Academic Performance — 2024  
 - Permanent Employee confirmation within 1.5 months at Softvence IT Ltd  
-- Solved 150+ algorithmic problems on Codeforces  
+- Solved 160+ algorithmic problems on Codeforces  
 - Pupil in Codeforces 
 
 ---
@@ -164,7 +166,6 @@ learning:
 improving:
   - Problem Solving
   - Scalable Architecture
-  - Backend Engineering
 ```
 
 ---
