@@ -29,7 +29,7 @@
 
 </div>
 
----
+<br/>
 
 # About Me
 
@@ -47,56 +47,98 @@ const ahshanul = {
 - Currently working as a **Junior Full Stack Developer at Softvence IT Ltd**  
 - Active Competitive Programmer on **Codeforces** with 1212 (**Pupil**) rating
 
----
+<br/>
 
 # Tech Stack
 
-
 <table>
 <tr>
-<td valign="top" width="25%">
 
-### Programming Languages
+<td valign="top" width="33%">
+
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
 </p>
+
+**JavaScript (ES6+) · TypeScript · Python · C · C++**
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,ts,react,nextjs,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,redux" />
 </p>
+
+**React.js · Next.js · Redux · Redux Toolkit · RTK Query · Tailwind CSS · Bootstrap · Shadcn/UI · Recharts · GSAP**
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### Backend & Database
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+**Node.js · Express.js · RESTful APIs · JWT Authentication**
 
 </td>
 
-<td valign="top" width="25%">
+</tr>
 
-### Tools & Platforms
+<tr>
+
+<td valign="top" width="33%">
+
+### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+**MongoDB · MySQL**
+
 </td>
+
+<td valign="top" width="33%">
+
+### 🛠️ Tools & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+</p>
+
+**Git · GitHub · Postman · Figma · Stripe · OAuth**
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🚀 DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions" />
+</p>
+
+**Linux · Docker · Docker Hub · CI/CD Pipelines · GitHub Actions · VPS Hosting**
+
+</td>
+
 </tr>
 </table>
 
----
+
+<br/>
 
 # Current Workplace
 
-## Jr. Full Stack Developer — Softvence IT Ltd
+## Jr. Full Stack Developer - Softvence IT Ltd
 Nov 2025 - Present
 
 - Developed and maintained scalable SaaS, CRM, n8n, healthcare, e-commerce, and multi-tenant applications using
@@ -108,7 +150,7 @@ environments.
 - Solved frontend and backend performance and state management challenges by optimizing reusable component
 architecture and API handling, improving maintainability and user experience
 
----
+<br/>
 
 # Competitive Programming
 
@@ -124,7 +166,7 @@ architecture and API handling, improving maintainability and user experience
 
 </div>
 
----
+<br/>
 
 # GitHub Analytics
 
@@ -144,17 +186,17 @@ architecture and API handling, improving maintainability and user experience
 
 </div>
 
----
+<br/>
 
 # Achievements
 
-- Dean’s Certificate for Excellent Academic Performance — 2025  
-- VC’s Certificate for Outstanding Academic Performance — 2024  
+- Dean’s Certificate for Excellent Academic Performance - 2025  
+- VC’s Certificate for Outstanding Academic Performance - 2024  
 - Permanent Employee confirmation within 1.5 months at Softvence IT Ltd  
 - Solved 160+ algorithmic problems on Codeforces  
 - Pupil in Codeforces 
 
----
+<br/>
 
 # Current Focus
 
@@ -168,7 +210,7 @@ improving:
   - Scalable Architecture
 ```
 
----
+<br/>
 
 # Let's Connect
 
