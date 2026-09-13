@@ -86,7 +86,7 @@ const ahshanul = {
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js · Express.js · RESTful APIs · JWT Authentication**
+**Node.js · Express.js · RESTful APIs · JWT · Socket.io**
 
 </td>
 
